@@ -39,11 +39,14 @@ Coloque o arquivo no seu ambiente de trabalho: Salve o arquivo na mesma pasta do
 Python
 # Importar bibliotecas necessárias
 import pandas as pd
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
 
 # Configurações para melhor visualização dos gráficos
 plt.style.use('seaborn-v0_8-darkgrid') 
+
 sns.set_palette('viridis') 
  
 

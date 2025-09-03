@@ -3,3 +3,14 @@
 Objetivo: Nesta atividade, você vai aplicar um fluxo de trabalho completo de análise de
 dados — da aquisição à visualização — usando um dataset de sua escolha. Isso o ajudará a
 desenvolver a capacidade de adaptação, uma habilidade crucial para qualquer analista.
+
+# Visualização principal:
+O gráfico mostra que gêneros como Platform e Shooter apresentam,
+em média, as maiores vendas globais por jogo. Já gêneros como Adventure e Strategy
+possuem valores médios bem menores, indicando que atraem nichos mais específicos.
+
+# Visualização de relação:
+O gráfico de dispersão mostra que há uma tendência positiva: quando um jogo
+vende mais na América do Norte, geralmente também apresenta boas vendas no
+resto do mundo. Porém, há pontos isolados que fogem da tendência, indicando
+jogos que tiveram sucesso mais localizado.

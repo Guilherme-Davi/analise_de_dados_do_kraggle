@@ -3,6 +3,7 @@ https://colab.research.google.com/drive/13Sl9cmAJGjV54qB6lum5laqsFIutLw94?usp=sh
 # Atenção, a atividade publicada aqui no github está pronta para ser executada no VS CODE, caso queira olhar pelo colab, clicar no link acima!
 
 pip install -r requirements.txt
+
 python análise_de_dados_do_kaggle.py
 
 
